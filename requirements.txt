@@ -1,0 +1,11 @@
+streamlit==1.37.1
+tensorflow==2.16.1
+librosa==0.10.2.post1
+soundfile==0.12.1
+scikit-learn==1.5.1
+joblib==1.4.2
+numpy==1.26.4
+pandas==2.2.2
+matplotlib
+streamlit-webrtc==0.47.7
+av==12.3.0
