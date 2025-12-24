@@ -1,5 +1,5 @@
-streamlit==1.37.1
-tensorflow==2.16.1
+streamlit==1.52.2
+tensorflow==2.20.0
 librosa==0.10.2.post1
 soundfile==0.12.1
 scikit-learn==1.5.1
