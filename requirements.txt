@@ -1,10 +1,11 @@
 tensorflow==2.20.0
-librosa
-soundfile
+librosa==0.10.2.post1
+soundfile==0.12.1
 scikit-learn
 joblib
-numpy
-pandas
+numpy==1.26.4
+pandas==2.2.2
 matplotlib
 streamlit-webrtc
-av
+av==12.3.0
+streamlit==1.30.0
