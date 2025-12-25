@@ -4,7 +4,7 @@ soundfile==0.12.1
 scikit-learn
 joblib
 numpy==1.26.4
-pandas==2.2.2
+pandas=
 matplotlib
 streamlit-webrtc
 av==12.3.0
