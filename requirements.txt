@@ -6,6 +6,4 @@ joblib
 numpy==1.26.4
 pandas
 matplotlib
-streamlit-webrtc
-av==12.3.0
 streamlit==1.30.0
