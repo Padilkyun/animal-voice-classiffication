@@ -8,5 +8,5 @@ numpy==1.24.3
 pandas==2.1.4
 matplotlib
 streamlit-webrtc==0.47.1
-av=
+av
 protobuf==3.20.3
